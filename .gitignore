@@ -1,0 +1,10 @@
+# Source/original files not needed on the live site
+assets/EVA01.pdf
+assets/rollingpol.pdf
+assets/b_68d72f265ab6dbb25bf871517f98ee2a.jpg
+assets/Mingjing_Yi_resume_research_260623.docx
+assets/README.md
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
